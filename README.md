@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at: hafizmohammadi67@gmail.com
 - ⚡ Fun Fact: I’m passionate about developing projects that combine frontend design with insightful data analytics.
 
+## My Portfolio
+
+Check out my [portfolio](https://hafizmohammadi.netlify.app)
+to explore my projects, skills, and professional experience.
