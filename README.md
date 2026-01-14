@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ## My Portfolio
 
-Check out my [portfolio](https://hafizmohammadi.netlify.app)
+Check out my [Portfolio](https://hafizmohammadi.netlify.app)
 to explore my projects, skills, and professional experience.
